@@ -1,31 +1,7 @@
-[English](README.md) · [中文](README.zh-CN.md) · [한국어](README.ko.md)
+<a href="https://openc2023.github.io/web-media/"><img src="assets/tianhan-ascii-v2.gif" alt="田漢 / TIAN HAN — flowing blue ASCII" width="100%"></a>
 
-[![TIAN HAN — animated blue ASCII identity](assets/tianhan-ascii.gif)](https://openc2023.github.io/web-media/)
+<p align="center">动画博士 · 媒体艺术家 · 釜山</p>
 
-# 田漢 / Tian Han / 티앤한
+<p align="center"><a href="https://openc2023.github.io/web-media/">作品集 ↗</a> &nbsp; / &nbsp; <a href="https://openc2023.github.io/web-media/#elsewhere">交互实验 ↗</a> &nbsp; / &nbsp; <a href="https://img.7studio.org/">品牌资源 ↗</a></p>
 
-**动画博士 · 媒体艺术家 · 韩国釜山**
-
-研究漫画动画图像、沉浸式媒体艺术与城市再生，把研究方法带入影像和交互体验。
-
-支持中韩双语研究、翻译与创作协作。
-
-[Portfolio](https://openc2023.github.io/web-media/) · [Interactive works](https://openc2023.github.io/web-media/#elsewhere) · [STUDIO 7](https://github.com/openc2023/7S) · [ORCID](https://orcid.org/0009-0004-8437-134X)
-
-## 精选项目
-
-| Project | 简介 | 浏览 |
-| :-- | :-- | :-- |
-| **web-media** | 个人作品集、ASCII 字符实验与网页互动作品。 | [Live](https://openc2023.github.io/web-media/) · [Code](https://github.com/openc2023/web-media) |
-| **STUDIO 7 / 07S** | STUDIO 7 / 07S 网站与作品展示项目。 | [Code](https://github.com/openc2023/7S) |
-| **C / SPLIT Identity** | C / SPLIT 品牌资源：18 款 SVG、PNG 与可编辑 Illustrator 源文件。 | [Live](https://img.7studio.org/) · [Code](https://github.com/openc2023/content) |
-
-## 研究与实践
-
-沉浸式媒体 · 投影映射 · 生成艺术 · 动画研究 · 互动装置
-
-[论文与出版](https://openc2023.github.io/web-media/#papers) · [完整作品集](https://art717.notion.site/box)
-
----
-
-<sub>[静态横幅](assets/tianhan-static.png) · [仓库 / 源码](https://github.com/openc2023/openc2023)</sub>
+<p align="center"><sub><a href="README.md">EN</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ko.md">한국어</a></sub></p>

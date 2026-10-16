@@ -1,31 +1,7 @@
-[English](README.md) · [中文](README.zh-CN.md) · [한국어](README.ko.md)
+<a href="https://openc2023.github.io/web-media/"><img src="assets/tianhan-ascii-v2.gif" alt="田漢 / TIAN HAN — flowing blue ASCII" width="100%"></a>
 
-[![TIAN HAN — animated blue ASCII identity](assets/tianhan-ascii.gif)](https://openc2023.github.io/web-media/)
+<p align="center">Animation PhD · Media Artist · Busan</p>
 
-# 田漢 / Tian Han / 티앤한
+<p align="center"><a href="https://openc2023.github.io/web-media/">Portfolio ↗</a> &nbsp; / &nbsp; <a href="https://openc2023.github.io/web-media/#elsewhere">Experiments ↗</a> &nbsp; / &nbsp; <a href="https://img.7studio.org/">Identity ↗</a></p>
 
-**Animation PhD · Media Artist · Busan, South Korea**
-
-I explore animation imagery, immersive media art and urban regeneration, bringing research into moving images and interactive experiences.
-
-Chinese and Korean research, translation and creative collaboration.
-
-[Portfolio](https://openc2023.github.io/web-media/) · [Interactive works](https://openc2023.github.io/web-media/#elsewhere) · [STUDIO 7](https://github.com/openc2023/7S) · [ORCID](https://orcid.org/0009-0004-8437-134X)
-
-## Selected projects
-
-| Project | About | Explore |
-| :-- | :-- | :-- |
-| **web-media** | Personal portfolio, ASCII experiments and interactive media works. | [Live](https://openc2023.github.io/web-media/) · [Code](https://github.com/openc2023/web-media) |
-| **STUDIO 7 / 07S** | STUDIO 7 / 07S website and portfolio project. | [Code](https://github.com/openc2023/7S) |
-| **C / SPLIT Identity** | C / SPLIT brand assets: 18 SVG and PNG variants with editable Illustrator source. | [Live](https://img.7studio.org/) · [Code](https://github.com/openc2023/content) |
-
-## Research & practice
-
-Immersive media · Projection mapping · Generative art · Animation research · Interactive installations
-
-[Papers & publications](https://openc2023.github.io/web-media/#papers) · [Full portfolio](https://art717.notion.site/box)
-
----
-
-<sub>[Static banner](assets/tianhan-static.png) · [Repository / Source](https://github.com/openc2023/openc2023)</sub>
+<p align="center"><sub><a href="README.md">EN</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ko.md">한국어</a></sub></p>
