@@ -6,9 +6,9 @@
 
 ## 资源
 
-- `assets/tianhan-ascii-v2.gif`：960 × 360，48 帧，4.8 秒无缝循环。
-- `assets/tianhan-static-v2.png`：静态替代图。
-- `source/build_minimal.py`：本地生成脚本，使用 Windows 系统字体。
+- `assets/tianhan-particles-v3.gif`：960 × 360，75 帧，6 秒无缝循环。
+- `assets/tianhan-particles-static.png`：静态替代图。
+- `source/build_particles.py`：本地生成脚本，使用 Windows 系统字体。
 
 设计参考本人项目：https://openc2023.github.io/web-media/ 。横幅采用真实字形覆盖率生成 ASCII 字符，不依赖第三方图床或动态统计服务。
 
@@ -22,7 +22,7 @@
 
 ## 后续更新
 
-安装 `requirements.txt` 中的依赖，在 Windows 运行 `python source/build_minimal.py` 可重新生成横幅、文档和本地预览。介绍内容来自 web-media 现有公开资料；个人任职等易变内容没有写入。
+安装 `requirements.txt` 中的依赖，在 Windows 运行 `python source/build_particles.py` 可重新生成横幅、文档和本地预览。介绍内容来自 web-media 现有公开资料；个人任职等易变内容没有写入。
 
 建议手动固定展示仓库：web-media、7S、content。个人资料的固定仓库、头像和简介由 GitHub 账户设置管理，本包不更改这些账户设置。
 

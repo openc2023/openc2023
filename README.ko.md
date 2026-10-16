@@ -1,4 +1,4 @@
-<a href="https://openc2023.github.io/web-media/"><img src="assets/tianhan-ascii-v2.gif" alt="田漢 / TIAN HAN — flowing blue ASCII" width="100%"></a>
+<a href="https://openc2023.github.io/web-media/"><img src="assets/tianhan-particles-v3.gif" alt="田漢 / TIAN HAN — particle assembly and character decoding" width="100%"></a>
 
 <p align="center">애니메이션 박사 · 미디어 아티스트 · 부산</p>
 
